@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../algo_lab4/.idea/algo_lab4.iml" filepath="$PROJECT_DIR$/../algo_lab4/.idea/algo_lab4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/algo_lab5.iml" filepath="$PROJECT_DIR$/.idea/algo_lab5.iml" />
     </modules>
   </component>
